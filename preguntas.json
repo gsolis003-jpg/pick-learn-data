@@ -1,0 +1,101 @@
+{
+  "matematicas": {
+    "Álgebra": [
+      {
+        "pregunta": "¿Cuál es el resultado de 2x + 3x?",
+        "opciones": ["5x", "6x", "x²", "10"],
+        "respuesta": "5x"
+      },
+      {
+        "pregunta": "¿Qué representa la incógnita en una ecuación?",
+        "opciones": ["Una constante", "Una variable", "Un número primo", "Un coeficiente"],
+        "respuesta": "Una variable"
+      }
+    ],
+    "Fracciones": [
+      {
+        "pregunta": "¿Cuál es la suma de 1/2 + 1/4?",
+        "opciones": ["3/4", "2/6", "1", "5/8"],
+        "respuesta": "3/4"
+      },
+      {
+        "pregunta": "¿Cuál es el resultado de 3/5 × 2/3?",
+        "opciones": ["6/15", "1/5", "6/8", "2/5"],
+        "respuesta": "6/15"
+      }
+    ],
+    "Geometría": [
+      {
+        "pregunta": "¿Qué figura tiene cuatro lados iguales y cuatro ángulos rectos?",
+        "opciones": ["Rombo", "Trapecio", "Rectángulo", "Cuadrado"],
+        "respuesta": "Cuadrado"
+      },
+      {
+        "pregunta": "¿Cuántos grados tiene un triángulo equilátero?",
+        "opciones": ["180", "90", "360", "120"],
+        "respuesta": "180"
+      }
+    ],
+    "Derivadas": [
+      {
+        "pregunta": "¿Cuál es la derivada de x²?",
+        "opciones": ["2x", "x", "x³", "1"],
+        "respuesta": "2x"
+      },
+      {
+        "pregunta": "¿Cuál es la derivada de sin(x)?",
+        "opciones": ["cos(x)", "-cos(x)", "tan(x)", "-sin(x)"],
+        "respuesta": "cos(x)"
+      }
+    ],
+    "Multiplicación": [
+      {
+        "pregunta": "¿Cuál es el resultado de 7 × 8?",
+        "opciones": ["48", "56", "64", "58"],
+        "respuesta": "56"
+      },
+      {
+        "pregunta": "¿Qué número falta en la multiplicación: 9 × __ = 81?",
+        "opciones": ["8", "9", "7", "6"],
+        "respuesta": "9"
+      }
+    ],
+    "División": [
+      {
+        "pregunta": "¿Cuál es el resultado de 12 ÷ 3?",
+        "opciones": ["4", "6", "3", "5"],
+        "respuesta": "4"
+      },
+      {
+        "pregunta": "¿Qué número falta en la división: __ ÷ 5 = 4?",
+        "opciones": ["20", "25", "15", "10"],
+        "respuesta": "20"
+      }
+    ],
+    "Porcentajes": [
+      {
+        "pregunta": "¿Cuál es el 25% de 80?",
+        "opciones": ["20", "25", "15", "30"],
+        "respuesta": "20"
+      },
+      {
+        "pregunta": "¿Qué porcentaje representa 50 de 200?",
+        "opciones": ["25%", "50%", "20%", "40%"],
+        "respuesta": "25%"
+      }
+    ],
+    "Estadística": [
+      {
+        "pregunta": "¿Qué representa la media en un conjunto de datos?",
+        "opciones": ["El valor más frecuente", "El promedio", "El valor central", "El rango"],
+        "respuesta": "El promedio"
+      },
+      {
+        "pregunta": "¿Qué mide la desviación estándar?",
+        "opciones": ["La tendencia", "La dispersión", "La frecuencia", "La moda"],
+        "respuesta": "La dispersión"
+      }
+    ]
+  }
+}
+
