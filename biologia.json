@@ -1,0 +1,89 @@
+{
+  "biologia": {
+    "Célula": [
+      {
+        "pregunta": "¿Qué organelo es conocido como la 'central de energía' de la célula?",
+        "respuesta": "Mitocondria",
+        "opciones": ["Núcleo", "Ribosoma", "Vacuola", "Mitocondria"]
+      },
+      {
+        "pregunta": "¿Cuál es la función principal del núcleo de una célula?",
+        "respuesta": "Almacenar el ADN",
+        "opciones": ["Producir proteínas", "Almacenar el ADN", "Realizar la fotosíntesis", "Desintoxicar la célula"]
+      },
+      {
+        "pregunta": "¿Qué tipo de célula no tiene núcleo definido?",
+        "respuesta": "Procariota",
+        "opciones": ["Eucariota", "Fúngica", "Animal", "Procariota"]
+      }
+    ],
+    "Genética": [
+      {
+        "pregunta": "¿Qué molécula contiene las instrucciones genéticas de un organismo?",
+        "respuesta": "ADN",
+        "opciones": ["ARN", "Proteína", "Glucosa", "ADN"]
+      },
+      {
+        "pregunta": "¿Cómo se llama el proceso de copiar el ADN a ARN?",
+        "respuesta": "Transcripción",
+        "opciones": ["Traducción", "Replicación", "Mitosis", "Transcripción"]
+      },
+      {
+        "pregunta": "¿Qué es un gen?",
+        "respuesta": "Un segmento de ADN que codifica para una proteína",
+        "opciones": ["Un tipo de célula", "Una estructura del núcleo", "Un cromosoma", "Un segmento de ADN que codifica para una proteína"]
+      }
+    ],
+    "Ecología": [
+      {
+        "pregunta": "¿Qué es un ecosistema?",
+        "respuesta": "Una comunidad de organismos y su entorno físico",
+        "opciones": ["Un grupo de animales", "Una especie de planta", "Un hábitat individual", "Una comunidad de organismos y su entorno físico"]
+      },
+      {
+        "pregunta": "¿Cuál es el proceso por el cual las plantas producen su propio alimento?",
+        "respuesta": "Fotosíntesis",
+        "opciones": ["Respiración", "Transpiración", "Quimiosíntesis", "Fotosíntesis"]
+      },
+      {
+        "pregunta": "¿Qué se encuentra en la base de casi todas las cadenas alimenticias?",
+        "respuesta": "Productores (plantas)",
+        "opciones": ["Consumidores primarios", "Consumidores secundarios", "Descomponedores", "Productores (plantas)"]
+      }
+    ],
+    "Anatomía": [
+      {
+        "pregunta": "¿Cuál es el órgano más grande del cuerpo humano?",
+        "respuesta": "La piel",
+        "opciones": ["El cerebro", "El hígado", "El corazón", "La piel"]
+      },
+      {
+        "pregunta": "¿Qué sistema es responsable de bombear la sangre por el cuerpo?",
+        "respuesta": "Sistema circulatorio",
+        "opciones": ["Sistema nervioso", "Sistema digestivo", "Sistema respiratorio", "Sistema circulatorio"]
+      },
+      {
+        "pregunta": "¿Qué hueso protege el cerebro?",
+        "respuesta": "El cráneo",
+        "opciones": ["La pelvis", "La columna vertebral", "El fémur", "El cráneo"]
+      }
+    ],
+    "Reino Animal": [
+      {
+        "pregunta": "¿Qué grupo de animales se caracteriza por tener sangre fría y respirar por branquias en una etapa de su vida?",
+        "respuesta": "Anfibios",
+        "opciones": ["Reptiles", "Aves", "Mamíferos", "Anfibios"]
+      },
+      {
+        "pregunta": "¿Qué animal es el mamífero terrestre más grande?",
+        "respuesta": "Elefante",
+        "opciones": ["Ballena azul", "Rinoceronte blanco", "Jirafa", "Elefante"]
+      },
+      {
+        "pregunta": "¿Cómo se llama el proceso por el cual las mariposas pasan de oruga a adulto?",
+        "respuesta": "Metamorfosis",
+        "opciones": ["Muda", "Evolución", "Incubación", "Metamorfosis"]
+      }
+    ]
+  }
+}
