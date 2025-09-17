@@ -1,0 +1,164 @@
+{
+  "gramatica": {
+    "Ortografía": [
+      {
+        "pregunta": "¿Cuál es la diferencia entre 'ay', 'hay' y 'ahí'?",
+        "respuesta": "'Ay' es una exclamación, 'hay' es una forma del verbo haber y 'ahí' es un adverbio de lugar.",
+        "opciones": [
+          "Ay es un verbo, hay es un adverbio y ahí es una exclamación.",
+          "Ay es una exclamación, hay es una forma del verbo haber y ahí es un adverbio de lugar.",
+          "Ay es un adverbio, hay es una exclamación y ahí es un verbo.",
+          "Ay, hay y ahí son sinónimos y se usan indistintamente."
+        ]
+      },
+      {
+        "pregunta": "En español, ¿cuándo se usan las comillas?",
+        "respuesta": "Para citar, para indicar ironía o sarcasmo y para delimitar títulos de obras.",
+        "opciones": [
+          "Solo para citar textualmente lo que otra persona dijo.",
+          "Para indicar que una palabra es incorrecta o una falta de ortografía.",
+          "Para citar, para indicar ironía o sarcasmo y para delimitar títulos de obras.",
+          "Se usan solo al principio de una oración."
+        ]
+      },
+      {
+        "pregunta": "¿Qué palabra necesita tilde para ser considerada un adverbio de negación?",
+        "respuesta": "No",
+        "opciones": [
+          "Si",
+          "Aun",
+          "Este",
+          "No"
+        ]
+      }
+    ],
+    "Sujeto y Predicado": [
+      {
+        "pregunta": "¿Qué es el sujeto de una oración?",
+        "respuesta": "La persona, animal o cosa que realiza la acción del verbo o de quien se dice algo.",
+        "opciones": [
+          "La persona, animal o cosa que realiza la acción del verbo o de quien se dice algo.",
+          "El verbo principal de la oración.",
+          "La parte de la oración que contiene el verbo y sus complementos.",
+          "Un tipo de sustantivo propio."
+        ]
+      },
+      {
+        "pregunta": "¿En qué consiste el predicado de una oración?",
+        "respuesta": "En el verbo y las palabras que lo acompañan, que expresan lo que hace el sujeto.",
+        "opciones": [
+          "El predicado es siempre la primera palabra de la oración.",
+          "Es la parte que contiene solo el verbo.",
+          "En el verbo y las palabras que lo acompañan, que expresan lo que hace el sujeto.",
+          "Son las palabras que describen al sujeto."
+        ]
+      },
+      {
+        "pregunta": "En la oración 'La casa verde es muy grande', ¿cuál es el predicado?",
+        "respuesta": "'es muy grande'",
+        "opciones": [
+          "'La casa verde'",
+          "'es'",
+          "'muy grande'",
+          "'es muy grande'"
+        ]
+      }
+    ],
+    "Tildes y Acentuación": [
+      {
+        "pregunta": "Una palabra es aguda cuando...",
+        "respuesta": "Su sílaba tónica es la última.",
+        "opciones": [
+          "Su sílaba tónica es la penúltima.",
+          "Su sílaba tónica es la antepenúltima.",
+          "Su sílaba tónica es la última.",
+          "No tiene sílaba tónica."
+        ]
+      },
+      {
+        "pregunta": "¿Cuándo se acentúan las palabras esdrújulas?",
+        "respuesta": "Siempre.",
+        "opciones": [
+          "Cuando terminan en vocal.",
+          "Cuando terminan en 'n' o 's'.",
+          "Siempre.",
+          "Cuando terminan en consonante, excepto 'n' o 's'."
+        ]
+      },
+      {
+        "pregunta": "¿Cuál de estas palabras es un diptongo?",
+        "respuesta": "Cuidado",
+        "opciones": [
+          "Poeta",
+          "Geología",
+          "Baúl",
+          "Cuidado"
+        ]
+      }
+    ],
+    "Verbos": [
+      {
+        "pregunta": "¿Qué es el modo indicativo?",
+        "respuesta": "Expresa acciones reales y objetivas.",
+        "opciones": [
+          "Expresa acciones dudosas o deseos.",
+          "Expresa acciones reales y objetivas.",
+          "Expresa órdenes o mandatos.",
+          "Expresa una acción en futuro."
+        ]
+      },
+      {
+        "pregunta": "¿Cuál de los siguientes verbos es irregular?",
+        "respuesta": "Ir",
+        "opciones": [
+          "Comer",
+          "Cantar",
+          "Hablar",
+          "Ir"
+        ]
+      },
+      {
+        "pregunta": "El tiempo 'Pretérito Perfecto Simple' se usa para...",
+        "respuesta": "Acciones terminadas en el pasado.",
+        "opciones": [
+          "Acciones que están sucediendo en el presente.",
+          "Acciones que sucederán en el futuro.",
+          "Acciones terminadas en el pasado.",
+          "Acciones habituales en el pasado."
+        ]
+      }
+    ],
+    "Tipos de Palabras": [
+      {
+        "pregunta": "¿Qué tipo de palabra es 'rápido' en la oración 'El coche va muy rápido'?",
+        "respuesta": "Adverbio",
+        "opciones": [
+          "Sustantivo",
+          "Adjetivo",
+          "Adverbio",
+          "Verbo"
+        ]
+      },
+      {
+        "pregunta": "Un pronombre se usa para...",
+        "respuesta": "Sustituir a un sustantivo.",
+        "opciones": [
+          "Describir a un sustantivo.",
+          "Sustituir a un sustantivo.",
+          "Indicar una acción.",
+          "Unir palabras u oraciones."
+        ]
+      },
+      {
+        "pregunta": "La palabra 'y' es un ejemplo de...",
+        "respuesta": "Conjunción",
+        "opciones": [
+          "Adverbio",
+          "Preposición",
+          "Conjunción",
+          "Artículo"
+        ]
+      }
+    ]
+  }
+}
